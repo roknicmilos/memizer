@@ -4,6 +4,15 @@ Displays a meme!
 
 ## Installation
 
+(Optional) Create a virtual environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+Install the package:
+
 ```bash
 pip install memizer
 ```
